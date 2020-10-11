@@ -30,6 +30,11 @@ h3 {
   color: #ffd28a;
 }
 
+a {
+  color: #258bff;
+  text-decoration: none;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
